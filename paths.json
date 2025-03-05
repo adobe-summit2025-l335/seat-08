@@ -1,0 +1,11 @@
+{
+  "mappings": [
+    "/content/las-vegas-events/:/",
+    "/content/las-vegas-events/configuration:/.helix/config.json",
+    "/content/las-vegas-events/metadata:/metadata.json",
+    "/content/las-vegas-events/redirects:/redirects.json"
+  ],
+  "includes": [
+    "/content/las-vegas-events/"
+  ]
+}
