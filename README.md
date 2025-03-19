@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--seat-08--adobe-summit2025-l335.aem.page/
+- Live: https://main--seat-08--adobe-summit2025-l335.aem.live/
 
 ## Documentation
 
