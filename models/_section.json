@@ -45,7 +45,8 @@
         "cards",
         "columns",
         "fragment",
-        "teaser"
+        "teaser",
+        "events-list"
       ]
     }
   ]
