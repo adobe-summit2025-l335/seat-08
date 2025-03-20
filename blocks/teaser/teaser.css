@@ -1,0 +1,30 @@
+.teaser {
+    display: flex;
+    gap: 1rem;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #780366;
+    padding: 1rem 2rem;
+}
+
+.teaser > div:last-of-type,
+.teaser > div:first-of-type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.teaser h2, .teaser h3 {
+    margin-top: 0.25rem;
+}
+
+.teaser .button-container a.button {
+    color: var(--text-color);
+    border-color: var(--light-color);
+}
+
+@media (width <=900px) {
+    .teaser {
+        flex-direction: column;
+    }
+}
