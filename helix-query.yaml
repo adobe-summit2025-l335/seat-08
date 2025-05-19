@@ -17,6 +17,8 @@ indices:
   events:
     include:
       - '/events/**'
+    exclude:
+      - /events
     target: /events-index.json
     properties:
       title:
